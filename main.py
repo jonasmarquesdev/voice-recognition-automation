@@ -1,10 +1,12 @@
 import speech_recognition as sr
 import pyaudio
+from voz import say
 
 def main():
     r = sr.Recognizer()
     mic = sr.Microphone()
 
+    say("Diga algo...")
     while True:
         try:
             with mic as source:
