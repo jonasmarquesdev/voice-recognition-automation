@@ -1,5 +1,7 @@
 # voice-recognition-automation
 
+![Logo](https://firebasestorage.googleapis.com/v0/b/storage-1cbb2.appspot.com/o/Minimalist-BannerV2.png?alt=media&token=27299998-acf5-4edb-a34b-862622bf4718)
+
 ## Instalação
 Certifique-se de ter o Python instalado em seu sistema. Você pode verificar digitando o seguinte comando no prompt de comando ou terminal:
 
