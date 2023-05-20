@@ -51,4 +51,4 @@ A biblioteca PyAudio requer algumas dependências extras para funcionar corretam
 
 ### `pip install PyAudio`
 
-### Após seguir essas etapas, você terá o SpeechRecognition e o PyAudio instalados em seu ambiente Python e poderá usá-los em seus projetos. Certifique-se de importar as bibliotecas corretamente em seus scripts para utilizá-las.
+Após seguir essas etapas, você terá o SpeechRecognition e o PyAudio instalados em seu ambiente Python e poderá usá-los. Certifique-se de importar as bibliotecas corretamente em seus scripts para utilizá-las.
