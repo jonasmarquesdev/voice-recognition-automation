@@ -19,6 +19,11 @@ Para instalar a biblioteca SpeechRecognition, execute o seguinte comando no prom
 
 Isso instalará a biblioteca SpeechRecognition em seu ambiente Python.
 
+## Instalação do Pyttsx3
+Para instalar a biblioteca Pyttsx3, execute o seguinte comando no prompt de comando ou terminal:
+
+### `pip install pyttsx3`
+
 ## Instalação do PyAudio
 A biblioteca PyAudio requer algumas dependências extras para funcionar corretamente. Siga as instruções abaixo com base no seu sistema operacional:
 
